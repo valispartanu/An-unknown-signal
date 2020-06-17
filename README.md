@@ -6,5 +6,6 @@ Cross validation might have been a sensible solution, but having a relatively sm
 More info can be found in the report.
 
 # Usage
-Command to use for file eg. adv_3:
+Command (file adv_3):
+
 python code.py train_data/adv_3.csv --plot
